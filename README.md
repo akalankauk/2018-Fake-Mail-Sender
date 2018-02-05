@@ -1,4 +1,4 @@
-# 2017-Fake-Mail-Sender
+# 2018-Fake-Mail-Sender
 PHP Fake Mail Sender Script with nicEditor - Send fake mails to anyone.
 # PHP Fake Mail Sender Script with nicEditor
 
